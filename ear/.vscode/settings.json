@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/package.json"
+            ],
+            "url": "http://json-schema.org/draft-07/schema"
+        }
+    ]
+}
